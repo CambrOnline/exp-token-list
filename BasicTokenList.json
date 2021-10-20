@@ -138,6 +138,14 @@
       "symbol": "EXC",
       "decimals": 10,
       "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x71c6a1ae78259f9E74cD4FaA3F96CFD06d9E1616.png"
+    },
+    {
+      "address": "0x4e004a1031f79001dc21194f0ec3bf1a3a208fb9",
+      "chainId": 2,
+      "name": "KundaliniCoin",
+      "symbol": "KLIC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x4e004a1031f79001dc21194f0ec3bf1a3a208fb9.png"
     }
   ]
 }
